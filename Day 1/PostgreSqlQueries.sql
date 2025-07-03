@@ -119,7 +119,7 @@ WHERE EXISTS (
 );
 
 UPDATE customer
-SET first_name = 'Atri', last_name = 'Thakar', email = 'atrithaker122@gmail.com'
+SET first_name = 'Rakesh', last_name = 'Choudhary', email = 'rakeshchoudhary@gmail.com'
 WHERE customer_id = 1;
 
 DELETE FROM customer WHERE customer_id = 11;
