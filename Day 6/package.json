@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/router": "^20.0.6",
+    "ng-angular-popup": "^1.0.0",
+    "ngx-toastr": "^19.0.0"
+  }
+}
